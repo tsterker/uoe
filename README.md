@@ -1,10 +1,13 @@
 Useful resources for my courses at University Of Edinburgh
 
 # #General
-- [Taught Course Informaion](http://www.inf.ed.ac.uk/student-services/teaching-organisation/taught-course-information)
-- [Video Recordings](http://groups.inf.ed.ac.uk/vision/VIDEO/)
-- [Examination Timetables](http://www.scripts.sasg.ed.ac.uk/registry/examinations/index.cfm)
-- [Past Exam Papers](http://www.exampapers.lib.ed.ac.uk.ezproxy.is.ed.ac.uk/Informatics0405.shtml)
+- University Of Edinburgh
+  - [Taught Course Informaion](http://www.inf.ed.ac.uk/student-services/teaching-organisation/taught-course-information)
+  - [Video Recordings](http://groups.inf.ed.ac.uk/vision/VIDEO/)
+  - [Examination Timetables](http://www.scripts.sasg.ed.ac.uk/registry/examinations/index.cfm)
+  - [Past Exam Papers](http://www.exampapers.lib.ed.ac.uk.ezproxy.is.ed.ac.uk/Informatics0405.shtml)
+- Tools
+  - [Online Tex Word-counter](http://app.uio.no/ifi/texcount/online.php)
 
 
 # #IAML & MLPR
