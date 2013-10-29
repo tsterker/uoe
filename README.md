@@ -13,6 +13,8 @@ Useful resources for my courses at University Of Edinburgh
 - [Blog: Shape Of Data](http://shapeofdata.wordpress.com/)
 - [Collection: Free Machine Learning Books & Co.](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md#machine-learning)
 
+###Tools
+- [Online MATLAB Compiler](http://www.compileonline.com/execute_matlab_online.php)
 
 ### Online Lectures
 - [YoutTube: mathematicalmonk](http://www.youtube.com/playlist?list=PLD0F06AA0D2E8FFBA)
