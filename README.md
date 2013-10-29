@@ -16,6 +16,7 @@ Useful resources for my courses at University Of Edinburgh
 ###MATLAB
 - [Official Tutorials](https://www.mathworks.de/products/matlab/videos.html)
 - [MATLAB/Octave Online Compiler](http://www.compileonline.com/execute_matlab_online.php)
+- [Matlab for Machine Learning](http://www.cs.utah.edu/~piyush/teaching/matlab4ml.pdf)
 
 ### Online Lectures
 - [YoutTube: mathematicalmonk](http://www.youtube.com/playlist?list=PLD0F06AA0D2E8FFBA)
