@@ -20,6 +20,7 @@ Useful resources for my courses at University Of Edinburgh
 ### Online Lectures
 - [YoutTube: mathematicalmonk](http://www.youtube.com/playlist?list=PLD0F06AA0D2E8FFBA)
 - [Stanford: Machine Learning by Andrew Ng](https://class.coursera.org/ml/lecture/index)
+  - [inofficial lecture notes](http://www.holehouse.org/mlclass/)
 - [University of Toronto: Neural Networks for Machine Learning by Geoffrey Hinton](https://class.coursera.org/ml/class/index)
 
 
