@@ -47,3 +47,4 @@ Useful resources for my courses at University Of Edinburgh
 
 ### Ray Tracing
 - [Concepts with Code](http://ray-tracer-concept.blogspot.co.uk/)
+- [Lecture Notes](http://cse.csusb.edu/tong/courses/cs621/notes/ray.php)
