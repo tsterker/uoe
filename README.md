@@ -27,6 +27,8 @@ Useful resources for my courses at University Of Edinburgh
   - [inofficial lecture notes](http://www.holehouse.org/mlclass/)
 - [University of Toronto: Neural Networks for Machine Learning by Geoffrey Hinton](https://class.coursera.org/ml/class/index)
 
+### Sampling
+- [Monte Carlo](http://www.scratchapixel.com/lessons/3d-basic-lessons/lesson-16-introduction-to-monte-carlo-integration/)
 
 # #EXC
 
@@ -39,3 +41,9 @@ Useful resources for my courses at University Of Edinburgh
 - **noSQL**
   - [Cassandra Data Models](http://youtu.be/HdJlsOZVGwM)
   - [Distributed Graph Analytics with Faunus](http://youtu.be/ALhjzlNuZdA)
+
+
+# #CG
+
+### Ray Tracing
+- [Concepts with Code](http://ray-tracer-concept.blogspot.co.uk/)
