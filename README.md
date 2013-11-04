@@ -58,6 +58,12 @@ Useful resources for my courses at University Of Edinburgh
 - [Graph Databases: Trends in the web of Data](http://www.slideshare.net/slidarko/graph-databases-trends-in-the-web-of-data)
 - [noSQL Data Modeling](http://www.youtube.com/watch?v=EAeviDFkZL8)
 - [neo4j Papers/Resources](http://www.neotechnology.com/resources/)
+- [neo4j vs Hadoop](http://highscalability.com/neo4j-graph-database-kicks-buttox)
+- [InterSocialDB: An Infrastructure for Managing Social Data](http://dmod.eu/intersocial/presentations/intersocialDB.pdf)
+- [noSQL and MapReduce](http://www.slideshare.net/j_singh/nosql-and-mapreduce#btnNext)
+- [does MapReduce make noSQL scalable?](http://programmers.stackexchange.com/questions/190517/is-map-reduce-the-basic-factor-that-makes-nosql-more-scalable-than-sql)
+- [! intro to graph databases](http://vimeo.com/50787208)
+- [! Modelling with Graphs](http://youtu.be/XzDNw2y0QEM)
 
 
 # #CG
