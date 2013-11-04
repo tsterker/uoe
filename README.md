@@ -8,6 +8,10 @@ Useful resources for my courses at University Of Edinburgh
   - [Past Exam Papers](http://www.exampapers.lib.ed.ac.uk.ezproxy.is.ed.ac.uk/Informatics0405.shtml)
 - Tools
   - [Online Tex Word-counter](http://app.uio.no/ifi/texcount/online.php)
+- Books
+  - [it-ebooks.info](http://it-ebooks.info/)
+  - [collection of free books](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md)
+  - [freecomputerbooks.com](http://freecomputerbooks.com/)
 
 
 # #IAML & MLPR
@@ -66,7 +70,9 @@ Useful resources for my courses at University Of Edinburgh
 - [! Modelling with Graphs](http://youtu.be/XzDNw2y0QEM)
 - [! How to create an interest graph](http://www.livechatinc.com/blog/2012/07/how-to-create-an-interest-graph/)
 - [Gravity.com Interest Graph](http://www.gravity.com/labs/interestgraph/)
-
+- [social vs interest Graph](http://let5ch.tumblr.com/post/23292739678/mind-the-gap-social-vs-interest-with-facebooks)
+- [architectue: social interest discovery](http://wwwconference.org/www2008/papers/pdf/p675-liA.pdf)
+- [social vs interest graph](http://www.alleywatch.com/2013/04/social-graph-vs-interest-graph-they-are-different/)
 
 # #CG
 
