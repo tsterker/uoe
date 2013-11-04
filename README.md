@@ -65,6 +65,7 @@ Useful resources for my courses at University Of Edinburgh
 - [! intro to graph databases](http://vimeo.com/50787208)
 - [! Modelling with Graphs](http://youtu.be/XzDNw2y0QEM)
 - [! How to create an interest graph](http://www.livechatinc.com/blog/2012/07/how-to-create-an-interest-graph/)
+- [Gravity.com Interest Graph](http://www.gravity.com/labs/interestgraph/)
 
 
 # #CG
