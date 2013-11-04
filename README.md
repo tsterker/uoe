@@ -64,6 +64,7 @@ Useful resources for my courses at University Of Edinburgh
 - [does MapReduce make noSQL scalable?](http://programmers.stackexchange.com/questions/190517/is-map-reduce-the-basic-factor-that-makes-nosql-more-scalable-than-sql)
 - [! intro to graph databases](http://vimeo.com/50787208)
 - [! Modelling with Graphs](http://youtu.be/XzDNw2y0QEM)
+- [! How to create an interest graph](http://www.livechatinc.com/blog/2012/07/how-to-create-an-interest-graph/)
 
 
 # #CG
