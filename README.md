@@ -20,12 +20,23 @@ Useful resources for my courses at University Of Edinburgh
 - [Official Tutorials](https://www.mathworks.de/products/matlab/videos.html)
 - [MATLAB/Octave Online Compiler](http://www.compileonline.com/execute_matlab_online.php)
 - [Matlab for Machine Learning](http://www.cs.utah.edu/~piyush/teaching/matlab4ml.pdf)
+- [Matlab Tips & Tricks](http://www.ee.columbia.edu/~marios/matlab/matlab_tricks.html)
 
 ### Online Lectures
 - [YoutTube: mathematicalmonk](http://www.youtube.com/playlist?list=PLD0F06AA0D2E8FFBA)
 - [Stanford: Machine Learning by Andrew Ng](https://class.coursera.org/ml/lecture/index)
   - [inofficial lecture notes](http://www.holehouse.org/mlclass/)
 - [University of Toronto: Neural Networks for Machine Learning by Geoffrey Hinton](https://class.coursera.org/ml/class/index)
+
+### Bayesian Methods
+- [!!! Bayesian Methods Tutorial](http://www.gatsby.ucl.ac.uk/~zoubin/tmp/tutorial.pdf)
+- [Introduction to Bayesian Learning](http://www.dgp.toronto.edu/~hertzman/ibl2004/bayes2004.pdf)
+
+### Dump
+- [Bernoulli, Beta, Cojugate Priors, MATLAB examples](http://www.cs.ubc.ca/~murphyk/Teaching/CS340-Fall06/lectures/bernoulli-slides.pdf)
+- [Monte Carlo introduction](http://www.scratchapixel.com/lessons/3d-basic-lessons/lesson-16-introduction-to-monte-carlo-integration/)
+- [Machine Learning Lecture Notes (Toronto)](http://www.dgp.toronto.edu/~hertzman/411notes.pdf)
+
 
 ### Sampling
 - [Monte Carlo](http://www.scratchapixel.com/lessons/3d-basic-lessons/lesson-16-introduction-to-monte-carlo-integration/)
@@ -42,9 +53,21 @@ Useful resources for my courses at University Of Edinburgh
   - [Cassandra Data Models](http://youtu.be/HdJlsOZVGwM)
   - [Distributed Graph Analytics with Faunus](http://youtu.be/ALhjzlNuZdA)
 
+### Dump
+- [Network analysis with Hadoop and neo4j](http://www.slideshare.net/fvanvollenhoven/network-analysis-with-hadoop-and-neo4j)
+- [Graph Databases: Trends in the web of Data](http://www.slideshare.net/slidarko/graph-databases-trends-in-the-web-of-data)
+- [noSQL Data Modeling](http://www.youtube.com/watch?v=EAeviDFkZL8)
+- [neo4j Papers/Resources](http://www.neotechnology.com/resources/)
+
 
 # #CG
 
 ### Ray Tracing
-- [Concepts with Code](http://ray-tracer-concept.blogspot.co.uk/)
-- [Lecture Notes](http://cse.csusb.edu/tong/courses/cs621/notes/ray.php)
+- [! Concepts with Code](http://ray-tracer-concept.blogspot.co.uk/)
+- [! Lecture Notes !](http://cse.csusb.edu/tong/courses/cs621/notes/ray.php)
+- [Phong Shading](http://www.codermind.com/articles/Raytracer-in-C++-Part-II-Specularity-post-processing.html)
+- [Refraction](http://steve.hollasch.net/cgindex/render/refraction.txt)
+- [Anti Aliasing](http://www.hackification.com/2008/08/31/experiments-in-ray-tracing-part-8-anti-aliasing/)
+- [Lighting](http://www.hackification.com/2008/07/18/experiments-in-ray-tracing-part-4-lighting/)
+- [Ray Tracing Fomulas](http://www.ccs.neu.edu/home/fell/CSU540/programs/RayTracingFormulas.htm)
+- [Ray - Triangle Intersection](http://www.lighthouse3d.com/tutorials/maths/ray-triangle-intersection/)
