@@ -44,6 +44,7 @@ Useful resources for my courses at University Of Edinburgh
 
 ### Sampling
 - [Monte Carlo](http://www.scratchapixel.com/lessons/3d-basic-lessons/lesson-16-introduction-to-monte-carlo-integration/)
+- [Lecture notes: Monta Carlo Methods](http://www.maths.bris.ac.uk/~manpw/teaching/notes.pdf)
 
 # #EXC
 
