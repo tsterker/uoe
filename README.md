@@ -36,6 +36,9 @@ Useful resources for my courses at University Of Edinburgh
 - [!!! Bayesian Methods Tutorial](http://www.gatsby.ucl.ac.uk/~zoubin/tmp/tutorial.pdf)
 - [Introduction to Bayesian Learning](http://www.dgp.toronto.edu/~hertzman/ibl2004/bayes2004.pdf)
 
+### Linear & Non-Linear Regression
+- [Fitting curves, Logistic Regression explained?](http://blog.minitab.com/blog/adventures-in-statistics/curve-fitting-with-linear-and-nonlinear-regression)
+
 ### Dump
 - [Bernoulli, Beta, Cojugate Priors, MATLAB examples](http://www.cs.ubc.ca/~murphyk/Teaching/CS340-Fall06/lectures/bernoulli-slides.pdf)
 - [Monte Carlo introduction](http://www.scratchapixel.com/lessons/3d-basic-lessons/lesson-16-introduction-to-monte-carlo-integration/)
