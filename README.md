@@ -40,6 +40,7 @@ Useful resources for my courses at University Of Edinburgh
 - [Fitting curves, Logistic Regression explained?](http://blog.minitab.com/blog/adventures-in-statistics/curve-fitting-with-linear-and-nonlinear-regression)
 
 ### Dump
+- [Probabilistic Models for Unsupervised Learning](http://www.cs.nyu.edu/~roweis/notes/nipstut.pdf)
 - [Bernoulli, Beta, Cojugate Priors, MATLAB examples](http://www.cs.ubc.ca/~murphyk/Teaching/CS340-Fall06/lectures/bernoulli-slides.pdf)
 - [Monte Carlo introduction](http://www.scratchapixel.com/lessons/3d-basic-lessons/lesson-16-introduction-to-monte-carlo-integration/)
 - [Machine Learning Lecture Notes (Toronto)](http://www.dgp.toronto.edu/~hertzman/411notes.pdf)
