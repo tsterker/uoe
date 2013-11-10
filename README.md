@@ -46,10 +46,16 @@ Useful resources for my courses at University Of Edinburgh
 - [Monte Carlo introduction](http://www.scratchapixel.com/lessons/3d-basic-lessons/lesson-16-introduction-to-monte-carlo-integration/)
 - [Machine Learning Lecture Notes (Toronto)](http://www.dgp.toronto.edu/~hertzman/411notes.pdf)
 - [slides..](http://people.cs.pitt.edu/~milos/courses/cs2750/Lectures/class4.pdf)
+- [Mark V Shaney text generation](http://www.strout.net/info/coding/python/shaney.py)
 
 ### Sampling
 - [Monte Carlo](http://www.scratchapixel.com/lessons/3d-basic-lessons/lesson-16-introduction-to-monte-carlo-integration/)
 - [Lecture notes: Monta Carlo Methods](http://www.maths.bris.ac.uk/~manpw/teaching/notes.pdf)
+- [Metropolis-Hastings in R](http://theoreticalecology.wordpress.com/2010/09/17/metropolis-hastings-mcmc-in-r/)
+- [Visualizing Metropolis-Hastings in R](http://www.r-bloggers.com/visualising-the-metropolis-hastings-algorithm/)
+- [The Metropolis-Hastings algorithm by example](http://www.johnkerl.org/doc/mhcoin.pdf)
+- [Understanding Metropolis-Hastings](http://elsa.berkeley.edu/reprints/misc/understanding.pdf)
+- [Metropolis-Hastings and Gibbs Sampling](www.cc.gatech.edu/~lebanon/notes/metropolis.pdf)
 
 # #EXC
 
