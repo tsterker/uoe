@@ -47,6 +47,7 @@ Useful resources for my courses at University Of Edinburgh
 - [Machine Learning Lecture Notes (Toronto)](http://www.dgp.toronto.edu/~hertzman/411notes.pdf)
 - [slides..](http://people.cs.pitt.edu/~milos/courses/cs2750/Lectures/class4.pdf)
 - [Mark V Shaney text generation](http://www.strout.net/info/coding/python/shaney.py)
+- [Feature Extraction](http://clopinet.com/isabelle/Projects/ETH/)
 
 ### Sampling
 - [Monte Carlo](http://www.scratchapixel.com/lessons/3d-basic-lessons/lesson-16-introduction-to-monte-carlo-integration/)
