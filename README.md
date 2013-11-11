@@ -40,6 +40,10 @@ Useful resources for my courses at University Of Edinburgh
 ### Linear & Non-Linear Regression
 - [Fitting curves, Logistic Regression explained?](http://blog.minitab.com/blog/adventures-in-statistics/curve-fitting-with-linear-and-nonlinear-regression)
 
+### SVMs
+- [FAQ](http://clopinet.com/isabelle/Projects/ETH/Questions_lecture_7.html)
+
+
 ### Dump
 - [Probabilistic Models for Unsupervised Learning](http://www.cs.nyu.edu/~roweis/notes/nipstut.pdf)
 - [Bernoulli, Beta, Cojugate Priors, MATLAB examples](http://www.cs.ubc.ca/~murphyk/Teaching/CS340-Fall06/lectures/bernoulli-slides.pdf)
