@@ -57,6 +57,7 @@ Useful resources for my courses at University Of Edinburgh
 - [The Metropolis-Hastings algorithm by example](http://www.johnkerl.org/doc/mhcoin.pdf)
 - [Understanding Metropolis-Hastings](http://elsa.berkeley.edu/reprints/misc/understanding.pdf)
 - [Metropolis-Hastings and Gibbs Sampling](www.cc.gatech.edu/~lebanon/notes/metropolis.pdf)
+- [Notes: Metropolis-Hastings](http://health.adelaide.edu.au/psychology/ccs/docs/ccs-class/technote_metropolishastings.pdf)
 
 # #EXC
 
