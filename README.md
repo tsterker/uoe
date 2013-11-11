@@ -60,7 +60,7 @@ Useful resources for my courses at University Of Edinburgh
 
 
 ### Sampling
-- [Sampling (that is Monte Carlo) is to Bayesian Inference, what Optimization is to Maximum Likelihood](http://www.youtube.com/watch?v=TNZk8lo4e-Q&list=PLE6Wd9FR--EdyJ5lbFl8UuGjecvVw66F6&index=20)
+- ["Sampling (that is Monte Carlo) is to Bayesian Inference, what Optimization is to Maximum Likelihood"](http://www.youtube.com/watch?v=TNZk8lo4e-Q&list=PLE6Wd9FR--EdyJ5lbFl8UuGjecvVw66F6&index=20)
 - [Monte Carlo](http://www.scratchapixel.com/lessons/3d-basic-lessons/lesson-16-introduction-to-monte-carlo-integration/)
 - [Lecture notes: Monta Carlo Methods](http://www.maths.bris.ac.uk/~manpw/teaching/notes.pdf)
 - [Metropolis-Hastings in R](http://theoreticalecology.wordpress.com/2010/09/17/metropolis-hastings-mcmc-in-r/)
