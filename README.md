@@ -42,6 +42,7 @@ Useful resources for my courses at University Of Edinburgh
 
 ### SVMs
 - [FAQ](http://clopinet.com/isabelle/Projects/ETH/Questions_lecture_7.html)
+- [User's guide to Support Vector Machines](http://pyml.sourceforge.net/doc/howto.pdf)
 
 
 ### Dump
@@ -52,6 +53,8 @@ Useful resources for my courses at University Of Edinburgh
 - [slides..](http://people.cs.pitt.edu/~milos/courses/cs2750/Lectures/class4.pdf)
 - [Mark V Shaney text generation](http://www.strout.net/info/coding/python/shaney.py)
 - [Feature Extraction](http://clopinet.com/isabelle/Projects/ETH/)
+
+
 
 ### Sampling
 - [Monte Carlo](http://www.scratchapixel.com/lessons/3d-basic-lessons/lesson-16-introduction-to-monte-carlo-integration/)
