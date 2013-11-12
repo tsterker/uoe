@@ -46,6 +46,7 @@ Useful resources for my courses at University Of Edinburgh
 - [Support Vector Machines Explained](www.tristanfletcher.co.uk/SVM%20Explained.pdf)
 - [A Practical Guide to Support Vector Classi cation](www.csie.ntu.edu.tw/~cjlin/papers/guide/guide.pdf)
 - [RBF SVM parameters](scikit-learn.org/stable/auto_examples/svm/plot_rbf_parameters.html)
+- [SVMs and Classification using WEKA](http://bi.snu.ac.kr/Courses/4ai11f/slides/svm_practice_bhkim.pdf)
 
 
 ### Dump
