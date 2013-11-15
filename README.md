@@ -61,6 +61,7 @@ Useful resources for my courses at University Of Edinburgh
 
 
 ### Sampling
+- [!!!! MCMC:Metropolis Algorithm](www.life.illinois.edu/dietze/Lectures2012/Lesson12_Metropolis.pdf)
 - [!! How would you explain Markov Chain Monte Carlo (MCMC) to a layperson?](stats.stackexchange.com/questions/165/how-would-you-explain-markov-chain-monte-carlo-mcmc-to-a-layperson)
 - [!! An Introduction to MCMC for Machine Learning](www.cs.princeton.edu/courses/archive/spring06/cos598C/papers/AndrieuFreitasDoucetJordan2003.pdf)
 - ["Sampling (that is Monte Carlo) is to Bayesian Inference, what Optimization is to Maximum Likelihood"](http://www.youtube.com/watch?v=TNZk8lo4e-Q&list=PLE6Wd9FR--EdyJ5lbFl8UuGjecvVw66F6&index=20)
