@@ -117,3 +117,4 @@ Useful resources for my courses at University Of Edinburgh
 - [Lighting](http://www.hackification.com/2008/07/18/experiments-in-ray-tracing-part-4-lighting/)
 - [Ray Tracing Fomulas](http://www.ccs.neu.edu/home/fell/CSU540/programs/RayTracingFormulas.htm)
 - [Ray - Triangle Intersection](http://www.lighthouse3d.com/tutorials/maths/ray-triangle-intersection/)
+- [Ray - AABB Intersection](http://people.csail.mit.edu/amy/papers/box-jgt.pdf)
