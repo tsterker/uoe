@@ -122,3 +122,4 @@ Useful resources for my courses at University Of Edinburgh
 - [Slides: Advanced Ray Tracing](www.cs.cmu.edu/afs/cs/academic/class/15462-s09/www/lec/13/lec13.pdf)
 - [Slides: Bouning Volume Hierarchies](www.eng.utah.edu/~cs6965/slides/06.pdf)
 - [Quad Trees: some code](www.cs.berkeley.edu/~demmel/cs267/lecture26/lecture26.html#link_3)
+- [Octree traversal/Ray-AABB intersection](www.gamedev.net/topic/285569-octree-traversalray-aabb-intersectionoctree-neighbors/)
