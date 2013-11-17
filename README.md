@@ -118,3 +118,4 @@ Useful resources for my courses at University Of Edinburgh
 - [Ray Tracing Fomulas](http://www.ccs.neu.edu/home/fell/CSU540/programs/RayTracingFormulas.htm)
 - [Ray - Triangle Intersection](http://www.lighthouse3d.com/tutorials/maths/ray-triangle-intersection/)
 - [Ray - AABB Intersection](http://people.csail.mit.edu/amy/papers/box-jgt.pdf)
+- [Ray - Cylinder Intersection](http://stackoverflow.com/questions/4078401/trying-to-optimize-line-vs-cylinder-intersection)
