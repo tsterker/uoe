@@ -121,3 +121,4 @@ Useful resources for my courses at University Of Edinburgh
 - [Ray - Cylinder Intersection](http://stackoverflow.com/questions/4078401/trying-to-optimize-line-vs-cylinder-intersection)
 - [Slides: Advanced Ray Tracing](www.cs.cmu.edu/afs/cs/academic/class/15462-s09/www/lec/13/lec13.pdf)
 - [Slides: Bouning Volume Hierarchies](www.eng.utah.edu/~cs6965/slides/06.pdf)
+- [Quad Trees: some code](www.cs.berkeley.edu/~demmel/cs267/lecture26/lecture26.html#link_3)
