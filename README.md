@@ -123,3 +123,5 @@ Useful resources for my courses at University Of Edinburgh
 - [Slides: Bouning Volume Hierarchies](www.eng.utah.edu/~cs6965/slides/06.pdf)
 - [Quad Trees: some code](www.cs.berkeley.edu/~demmel/cs267/lecture26/lecture26.html#link_3)
 - [Octree traversal/Ray-AABB intersection](www.gamedev.net/topic/285569-octree-traversalray-aabb-intersectionoctree-neighbors/)
+- [flipcode.com: Spatial_Subdivisions](www.flipcode.com/archives/Raytracing_Topics_Techniques-Part_4_Spatial_Subdivisions.shtml)
+- [flipcode.com: Soft Shadows](www.flipcode.com/archives/Raytracing_Topics_Techniques-Part_5_Soft_Shadows.shtml)
