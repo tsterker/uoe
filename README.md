@@ -125,3 +125,4 @@ Useful resources for my courses at University Of Edinburgh
 - [Octree traversal/Ray-AABB intersection](www.gamedev.net/topic/285569-octree-traversalray-aabb-intersectionoctree-neighbors/)
 - [flipcode.com: Spatial_Subdivisions](www.flipcode.com/archives/Raytracing_Topics_Techniques-Part_4_Spatial_Subdivisions.shtml)
 - [flipcode.com: Soft Shadows](www.flipcode.com/archives/Raytracing_Topics_Techniques-Part_5_Soft_Shadows.shtml)
+- [Glass: Fresnel](forums.odforce.net/index.php?/topic/4196-glass/)
