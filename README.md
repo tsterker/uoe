@@ -33,6 +33,8 @@ Useful resources for my courses at University Of Edinburgh
   - [inofficial lecture notes](http://www.holehouse.org/mlclass/)
 - [University of Toronto: Neural Networks for Machine Learning by Geoffrey Hinton](https://class.coursera.org/ml/class/index)
 - [University of British Columbia: Machine Learning](http://www.youtube.com/user/ProfNandoDF/videos?flow=grid&view=1)
+- [Stanford: Machine Learning (old)](http://www.youtube.com/playlist?list=PLA89DCFA6ADACE599)
+
 
 ### Bayesian Methods
 - [!!! Bayesian Methods Tutorial](http://www.gatsby.ucl.ac.uk/~zoubin/tmp/tutorial.pdf)
