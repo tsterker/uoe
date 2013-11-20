@@ -38,6 +38,7 @@ Useful resources for my courses at University Of Edinburgh
 ###WEKA
 - [Video Tutorials: Data Mining with WEKA](https://www.youtube.com/user/WekaMOOC?feature=watch)
 - [Data mining with WEKA](www.ibm.com/developerworks/opensource/library/os-weka2/index.html?ca=drs-)
+- [Discussion: k-means with WEKA](http://forums.pentaho.com/showthread.php?70648-Kmeans-with-WEKA)
 
 ### Bayesian Methods
 - [!!! Bayesian Methods Tutorial](http://www.gatsby.ucl.ac.uk/~zoubin/tmp/tutorial.pdf)
