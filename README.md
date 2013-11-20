@@ -56,6 +56,7 @@ Useful resources for my courses at University Of Edinburgh
 
 
 ### Dump
+- [Slides: Decision Trees](www.slideshare.net/pierluca.lanzi/machine-learning-and-data-mining-11-decision-trees)
 - [Different Classification Methods Explained](http://www.saedsayad.com/classification.htm)
 - [Probabilistic Models for Unsupervised Learning](http://www.cs.nyu.edu/~roweis/notes/nipstut.pdf)
 - [Bernoulli, Beta, Cojugate Priors, MATLAB examples](http://www.cs.ubc.ca/~murphyk/Teaching/CS340-Fall06/lectures/bernoulli-slides.pdf)
