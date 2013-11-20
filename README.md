@@ -21,12 +21,6 @@ Useful resources for my courses at University Of Edinburgh
 - [Blog: Shape Of Data](http://shapeofdata.wordpress.com/)
 - [Collection: Free Machine Learning Books & Co.](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md#machine-learning)
 
-###MATLAB
-- [Official Tutorials](https://www.mathworks.de/products/matlab/videos.html)
-- [MATLAB/Octave Online Compiler](http://www.compileonline.com/execute_matlab_online.php)
-- [Matlab for Machine Learning](http://www.cs.utah.edu/~piyush/teaching/matlab4ml.pdf)
-- [Matlab Tips & Tricks](http://www.ee.columbia.edu/~marios/matlab/matlab_tricks.html)
-
 ### Online Lectures
 - [YoutTube: mathematicalmonk](http://www.youtube.com/playlist?list=PLD0F06AA0D2E8FFBA)
 - [Stanford: Machine Learning by Andrew Ng](https://class.coursera.org/ml/lecture/index)
@@ -35,6 +29,15 @@ Useful resources for my courses at University Of Edinburgh
 - [University of British Columbia: Machine Learning](http://www.youtube.com/user/ProfNandoDF/videos?flow=grid&view=1)
 - [Stanford: Machine Learning (old)](http://www.youtube.com/playlist?list=PLA89DCFA6ADACE599)
 
+###MATLAB
+- [Official Tutorials](https://www.mathworks.de/products/matlab/videos.html)
+- [MATLAB/Octave Online Compiler](http://www.compileonline.com/execute_matlab_online.php)
+- [Matlab for Machine Learning](http://www.cs.utah.edu/~piyush/teaching/matlab4ml.pdf)
+- [Matlab Tips & Tricks](http://www.ee.columbia.edu/~marios/matlab/matlab_tricks.html)
+
+###WEKA
+- [Video Tutorials: Data Mining with WEKA](https://www.youtube.com/user/WekaMOOC?feature=watch)
+- [Data mining with WEKA](www.ibm.com/developerworks/opensource/library/os-weka2/index.html?ca=drs-)
 
 ### Bayesian Methods
 - [!!! Bayesian Methods Tutorial](http://www.gatsby.ucl.ac.uk/~zoubin/tmp/tutorial.pdf)
