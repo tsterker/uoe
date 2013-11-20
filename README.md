@@ -43,6 +43,7 @@ Useful resources for my courses at University Of Edinburgh
 ### Bayesian Methods
 - [!!! Bayesian Methods Tutorial](http://www.gatsby.ucl.ac.uk/~zoubin/tmp/tutorial.pdf)
 - [Introduction to Bayesian Learning](http://www.dgp.toronto.edu/~hertzman/ibl2004/bayes2004.pdf)
+- [(INTUITIVE !!) Explanation: Naive Bayes](http://www.statsoft.com/Textbook/Naive-Bayes-Classifier)
 
 ### Linear & Non-Linear Regression
 - [Fitting curves, Logistic Regression explained?](http://blog.minitab.com/blog/adventures-in-statistics/curve-fitting-with-linear-and-nonlinear-regression)
