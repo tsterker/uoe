@@ -37,7 +37,7 @@ Useful resources for my courses at University Of Edinburgh
 
 ###WEKA
 - [Video Tutorials: Data Mining with WEKA](https://www.youtube.com/user/WekaMOOC?feature=watch)
-- [Data mining with WEKA](www.ibm.com/developerworks/opensource/library/os-weka2/index.html?ca=drs-)
+- [Data mining with WEKA](http://www.ibm.com/developerworks/opensource/library/os-weka2/index.html?ca=drs-)
 - [Discussion: k-means with WEKA](http://forums.pentaho.com/showthread.php?70648-Kmeans-with-WEKA)
 
 ### Bayesian Methods
@@ -58,13 +58,13 @@ Useful resources for my courses at University Of Edinburgh
 - [!? Kernel Functions for Machine Learning Applications](http://crsouza.blogspot.co.uk/2010/03/kernel-functions-for-machine-learning.html)
 
 ### PCA
-- [Making sense of principal component analysis, eigenvectors & eigenvalues](stats.stackexchange.com/questions/2691/making-sense-of-principal-component-analysis-eigenvectors-eigenvalues)
+- [Making sense of principal component analysis, eigenvectors & eigenvalues](http://stats.stackexchange.com/questions/2691/making-sense-of-principal-component-analysis-eigenvectors-eigenvalues)
 - [A tutorial on Principal Components Analysis](http://www.cs.otago.ac.nz/cosc453/student_tutorials/principal_components.pdf)
 
 
 
 ### Dump
-- [Slides: Decision Trees](www.slideshare.net/pierluca.lanzi/machine-learning-and-data-mining-11-decision-trees)
+- [Slides: Decision Trees](http://www.slideshare.net/pierluca.lanzi/machine-learning-and-data-mining-11-decision-trees)
 - [Different Classification Methods Explained](http://www.saedsayad.com/classification.htm)
 - [Probabilistic Models for Unsupervised Learning](http://www.cs.nyu.edu/~roweis/notes/nipstut.pdf)
 - [Bernoulli, Beta, Cojugate Priors, MATLAB examples](http://www.cs.ubc.ca/~murphyk/Teaching/CS340-Fall06/lectures/bernoulli-slides.pdf)
@@ -77,9 +77,9 @@ Useful resources for my courses at University Of Edinburgh
 
 
 ### Sampling
-- [!!!! MCMC:Metropolis Algorithm](www.life.illinois.edu/dietze/Lectures2012/Lesson12_Metropolis.pdf)
-- [!! How would you explain Markov Chain Monte Carlo (MCMC) to a layperson?](stats.stackexchange.com/questions/165/how-would-you-explain-markov-chain-monte-carlo-mcmc-to-a-layperson)
-- [!! An Introduction to MCMC for Machine Learning](www.cs.princeton.edu/courses/archive/spring06/cos598C/papers/AndrieuFreitasDoucetJordan2003.pdf)
+- [!!!! MCMC:Metropolis Algorithm](http://www.life.illinois.edu/dietze/Lectures2012/Lesson12_Metropolis.pdf)
+- [!! How would you explain Markov Chain Monte Carlo (MCMC) to a layperson?](http://stats.stackexchange.com/questions/165/how-would-you-explain-markov-chain-monte-carlo-mcmc-to-a-layperson)
+- [!! An Introduction to MCMC for Machine Learning](http://www.cs.princeton.edu/courses/archive/spring06/cos598C/papers/AndrieuFreitasDoucetJordan2003.pdf)
 - ["Sampling (that is Monte Carlo) is to Bayesian Inference, what Optimization is to Maximum Likelihood"](http://www.youtube.com/watch?v=TNZk8lo4e-Q&list=PLE6Wd9FR--EdyJ5lbFl8UuGjecvVw66F6&index=20)
 - [Monte Carlo](http://www.scratchapixel.com/lessons/3d-basic-lessons/lesson-16-introduction-to-monte-carlo-integration/)
 - [Lecture notes: Monta Carlo Methods](http://www.maths.bris.ac.uk/~manpw/teaching/notes.pdf)
@@ -87,9 +87,9 @@ Useful resources for my courses at University Of Edinburgh
 - [Visualizing Metropolis-Hastings in R](http://www.r-bloggers.com/visualising-the-metropolis-hastings-algorithm/)
 - [The Metropolis-Hastings algorithm by example](http://www.johnkerl.org/doc/mhcoin.pdf)
 - [Understanding Metropolis-Hastings](http://elsa.berkeley.edu/reprints/misc/understanding.pdf)
-- [Metropolis-Hastings and Gibbs Sampling](www.cc.gatech.edu/~lebanon/notes/metropolis.pdf)
+- [Metropolis-Hastings and Gibbs Sampling](http://www.cc.gatech.edu/~lebanon/notes/metropolis.pdf)
 - [Notes: Metropolis-Hastings](http://health.adelaide.edu.au/psychology/ccs/docs/ccs-class/technote_metropolishastings.pdf)
-- [Implementation of stochastic simulation algorithms: Metropolis-Hastings/Gibbs/...](www.mas.ncl.ac.uk/~ndjw1/teaching/sim/)
+- [Implementation of stochastic simulation algorithms: Metropolis-Hastings/Gibbs/...](http://www.mas.ncl.ac.uk/~ndjw1/teaching/sim/)
 - [!! Metropolis-Hastings Code](http://health.adelaide.edu.au/psychology/ccs/teaching/ccs/)
 
 # #EXC
@@ -134,10 +134,10 @@ Useful resources for my courses at University Of Edinburgh
 - [Ray - Triangle Intersection](http://www.lighthouse3d.com/tutorials/maths/ray-triangle-intersection/)
 - [Ray - AABB Intersection](http://people.csail.mit.edu/amy/papers/box-jgt.pdf)
 - [Ray - Cylinder Intersection](http://stackoverflow.com/questions/4078401/trying-to-optimize-line-vs-cylinder-intersection)
-- [Slides: Advanced Ray Tracing](www.cs.cmu.edu/afs/cs/academic/class/15462-s09/www/lec/13/lec13.pdf)
-- [Slides: Bouning Volume Hierarchies](www.eng.utah.edu/~cs6965/slides/06.pdf)
-- [Quad Trees: some code](www.cs.berkeley.edu/~demmel/cs267/lecture26/lecture26.html#link_3)
-- [Octree traversal/Ray-AABB intersection](www.gamedev.net/topic/285569-octree-traversalray-aabb-intersectionoctree-neighbors/)
-- [flipcode.com: Spatial_Subdivisions](www.flipcode.com/archives/Raytracing_Topics_Techniques-Part_4_Spatial_Subdivisions.shtml)
-- [flipcode.com: Soft Shadows](www.flipcode.com/archives/Raytracing_Topics_Techniques-Part_5_Soft_Shadows.shtml)
-- [Glass: Fresnel](forums.odforce.net/index.php?/topic/4196-glass/)
+- [Slides: Advanced Ray Tracing](http://www.cs.cmu.edu/afs/cs/academic/class/15462-s09/www/lec/13/lec13.pdf)
+- [Slides: Bouning Volume Hierarchies](http://www.eng.utah.edu/~cs6965/slides/06.pdf)
+- [Quad Trees: some code](http://www.cs.berkeley.edu/~demmel/cs267/lecture26/lecture26.html#link_3)
+- [Octree traversal/Ray-AABB intersection](http://www.gamedev.net/topic/285569-octree-traversalray-aabb-intersectionoctree-neighbors/)
+- [flipcode.com: Spatial_Subdivisions](http://www.flipcode.com/archives/Raytracing_Topics_Techniques-Part_4_Spatial_Subdivisions.shtml)
+- [flipcode.com: Soft Shadows](http://www.flipcode.com/archives/Raytracing_Topics_Techniques-Part_5_Soft_Shadows.shtml)
+- [Glass: Fresnel](http://forums.odforce.net/index.php?/topic/4196-glass/)
