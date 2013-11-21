@@ -57,6 +57,10 @@ Useful resources for my courses at University Of Edinburgh
 - [SVMs and Classification using WEKA](http://bi.snu.ac.kr/Courses/4ai11f/slides/svm_practice_bhkim.pdf)
 - [!? Kernel Functions for Machine Learning Applications](crsouza.blogspot.co.uk/2010/03/kernel-functions-for-machine-learning.html)
 
+### PCA
+- [Making sense of principal component analysis, eigenvectors & eigenvalues](stats.stackexchange.com/questions/2691/making-sense-of-principal-component-analysis-eigenvectors-eigenvalues)
+
+
 
 ### Dump
 - [Slides: Decision Trees](www.slideshare.net/pierluca.lanzi/machine-learning-and-data-mining-11-decision-trees)
