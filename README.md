@@ -29,6 +29,7 @@ Useful resources for my courses at University Of Edinburgh
 - [University of Toronto: Neural Networks for Machine Learning by Geoffrey Hinton](https://class.coursera.org/ml/class/index)
 - [University of British Columbia: Machine Learning](http://www.youtube.com/user/ProfNandoDF/videos?flow=grid&view=1)
 - [Stanford: Machine Learning (old)](http://www.youtube.com/playlist?list=PLA89DCFA6ADACE599)
+- [California Institute of Technology: Learning From Data](http://work.caltech.edu/previous.html)
 
 ###MATLAB
 - [Official Tutorials](https://www.mathworks.de/products/matlab/videos.html)
