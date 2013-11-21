@@ -2,6 +2,7 @@ Useful resources for my courses at University Of Edinburgh
 
 # #General
 - University Of Edinburgh
+  - [betterinformatics.com](http://betterinformatics.com/)
   - [Course Work Marks](https://portal.theon.inf.ed.ac.uk/profile/students/s1365873/TP107_Course_Work_Marks.shtml)
   - [Taught Course Informaion](http://www.inf.ed.ac.uk/student-services/teaching-organisation/taught-course-information)
   - [Video Recordings](http://groups.inf.ed.ac.uk/vision/VIDEO/)
