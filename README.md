@@ -57,6 +57,7 @@ Useful resources for my courses at University Of Edinburgh
 - [SVMs and Classification using WEKA](http://bi.snu.ac.kr/Courses/4ai11f/slides/svm_practice_bhkim.pdf)
 - [!? Kernel Functions for Machine Learning Applications](http://crsouza.blogspot.co.uk/2010/03/kernel-functions-for-machine-learning.html)
 - [SVM with polynomial kernel visualization](http://youtu.be/3liCbRZPrZA)
+- [An Idiot’s guide to Support vectormachines (SVMs)](http://www.cs.ucf.edu/courses/cap6412/fall2009/papers/Berwick2003.pdf)
 
 ### PCA
 - [Making sense of principal component analysis, eigenvectors & eigenvalues](http://stats.stackexchange.com/questions/2691/making-sense-of-principal-component-analysis-eigenvectors-eigenvalues)
