@@ -56,6 +56,7 @@ Useful resources for my courses at University Of Edinburgh
 - [RBF SVM parameters](http://scikit-learn.org/stable/auto_examples/svm/plot_rbf_parameters.html)
 - [SVMs and Classification using WEKA](http://bi.snu.ac.kr/Courses/4ai11f/slides/svm_practice_bhkim.pdf)
 - [!? Kernel Functions for Machine Learning Applications](http://crsouza.blogspot.co.uk/2010/03/kernel-functions-for-machine-learning.html)
+- [SVM with polynomial kernel visualization](http://youtu.be/3liCbRZPrZA)
 
 ### PCA
 - [Making sense of principal component analysis, eigenvectors & eigenvalues](http://stats.stackexchange.com/questions/2691/making-sense-of-principal-component-analysis-eigenvectors-eigenvalues)
