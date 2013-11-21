@@ -52,10 +52,10 @@ Useful resources for my courses at University Of Edinburgh
 - [FAQ](http://clopinet.com/isabelle/Projects/ETH/Questions_lecture_7.html)
 - [User's guide to Support Vector Machines](http://pyml.sourceforge.net/doc/howto.pdf)
 - [Support Vector Machines Explained](http://www.tristanfletcher.co.uk/SVM%20Explained.pdf)
-- [A Practical Guide to Support Vector Classi cation](www.csie.ntu.edu.tw/~cjlin/papers/guide/guide.pdf)
-- [RBF SVM parameters](scikit-learn.org/stable/auto_examples/svm/plot_rbf_parameters.html)
+- [A Practical Guide to Support Vector Classi cation](http://www.csie.ntu.edu.tw/~cjlin/papers/guide/guide.pdf)
+- [RBF SVM parameters](http://scikit-learn.org/stable/auto_examples/svm/plot_rbf_parameters.html)
 - [SVMs and Classification using WEKA](http://bi.snu.ac.kr/Courses/4ai11f/slides/svm_practice_bhkim.pdf)
-- [!? Kernel Functions for Machine Learning Applications](crsouza.blogspot.co.uk/2010/03/kernel-functions-for-machine-learning.html)
+- [!? Kernel Functions for Machine Learning Applications](http://crsouza.blogspot.co.uk/2010/03/kernel-functions-for-machine-learning.html)
 
 ### PCA
 - [Making sense of principal component analysis, eigenvectors & eigenvalues](stats.stackexchange.com/questions/2691/making-sense-of-principal-component-analysis-eigenvectors-eigenvalues)
