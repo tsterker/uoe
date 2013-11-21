@@ -59,6 +59,7 @@ Useful resources for my courses at University Of Edinburgh
 
 ### PCA
 - [Making sense of principal component analysis, eigenvectors & eigenvalues](stats.stackexchange.com/questions/2691/making-sense-of-principal-component-analysis-eigenvectors-eigenvalues)
+- [A tutorial on Principal Components Analysis](http://www.cs.otago.ac.nz/cosc453/student_tutorials/principal_components.pdf)
 
 
 
