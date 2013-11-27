@@ -109,6 +109,15 @@ Useful resources for my courses at University Of Edinburgh
   - [Cassandra Data Models](http://youtu.be/HdJlsOZVGwM)
   - [Distributed Graph Analytics with Faunus](http://youtu.be/ALhjzlNuZdA)
 
+### Hadoop
+- [DOC: Hadoop Streaming](http://hadoop.apache.org/docs/r1.1.2/streaming.html)
+- [Matrix Transpose I](http://had00b.blogspot.co.uk/2013/08/mapreduce-gentle-introduction.html)
+- [Matrix Transpose II](http://www.opensourceconnections.com/2013/03/14/finally-a-hadoop-hello-world-that-isnt-a-lame-word-count/)
+- [Secondary Sort I](http://www.bigdataspeak.com/2013/02/hadoop-how-to-do-secondary-sort-on_25.html)
+- [Secondary Sort II](http://vangjee.wordpress.com/2012/03/20/secondary-sorting-aka-sorting-values-in-hadoops-mapreduce-programming-paradigm/)
+- [Explanatory Illustration](http://grepalex.com/2012/09/10/sorting-text-files-with-mapreduce/)
+
+
 ### Dump
 - [Network analysis with Hadoop and neo4j](http://www.slideshare.net/fvanvollenhoven/network-analysis-with-hadoop-and-neo4j)
 - [Graph Databases: Trends in the web of Data](http://www.slideshare.net/slidarko/graph-databases-trends-in-the-web-of-data)
