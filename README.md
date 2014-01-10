@@ -1,6 +1,9 @@
 Useful resources for my courses at University Of Edinburgh
 
 # #General
+- Writing / Research Skills
+  - [3monththesis.com](http://3monththesis.com/)
+
 - University Of Edinburgh
   - [betterinformatics.com](http://betterinformatics.com/)
   - [Course Work Marks](https://portal.theon.inf.ed.ac.uk/profile/students/s1365873/TP107_Course_Work_Marks.shtml)
