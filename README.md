@@ -23,6 +23,9 @@ Useful resources for my courses at University Of Edinburgh
 
 ### OTHER LECTURES:
 - [Informatics 2B - Algorithms, Data Structures, Learning (INFR08009)](http://www.drps.ed.ac.uk/13-14/dpt/cxinfr08009.htm)
+  - [Slides / Lecture Notes](http://www.inf.ed.ac.uk/teaching/courses/inf2b/lectureSchedule.html)
+  - [Tutorials](http://www.inf.ed.ac.uk/teaching/courses/inf2b/tutorialSchedule.html)
+  - [Background Reading](http://www.inf.ed.ac.uk/teaching/courses/inf2b/reading.html)
 
 
 ###General
