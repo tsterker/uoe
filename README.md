@@ -21,6 +21,10 @@ Useful resources for my courses at University Of Edinburgh
 
 # #IAML & MLPR
 
+### OTHER LECTURES:
+- [Informatics 2B - Algorithms, Data Structures, Learning (INFR08009)](http://www.drps.ed.ac.uk/13-14/dpt/cxinfr08009.htm)
+
+
 ###General
 - [Blog: Shape Of Data](http://shapeofdata.wordpress.com/)
 - [Collection: Free Machine Learning Books & Co.](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md#machine-learning)
