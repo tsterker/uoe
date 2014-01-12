@@ -85,6 +85,7 @@ Useful resources for my courses at University Of Edinburgh
 
 
 ### Sampling
+- [MCMC: (Course: Randomness and Computation)](http://www.inf.ed.ac.uk/teaching/courses/rc/)
 - [!!!! MCMC:Metropolis Algorithm](http://www.life.illinois.edu/dietze/Lectures2012/Lesson12_Metropolis.pdf)
 - [!! How would you explain Markov Chain Monte Carlo (MCMC) to a layperson?](http://stats.stackexchange.com/questions/165/how-would-you-explain-markov-chain-monte-carlo-mcmc-to-a-layperson)
 - [!! An Introduction to MCMC for Machine Learning](http://www.cs.princeton.edu/courses/archive/spring06/cos598C/papers/AndrieuFreitasDoucetJordan2003.pdf)
